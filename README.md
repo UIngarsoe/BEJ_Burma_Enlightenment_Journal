@@ -1,7 +1,7 @@
-# BEJ_Burma_Enlightenment_Journal
+# 🦚 BEJ_Burma_Enlightenment_Journal
 Burma Enlightenment Journal — Public-interest evidence, human voices, data, context and wisdom. Reality Before Narrative.
 
-## ဗမာလူထု အသိညာဏ်တော် ဂျာနယ်
+## 🦚 ဗမာလူထု အသိညာဏ်တော် ဂျာနယ်
 
 ## Burma Enlightenment Journal — BEJ
 
