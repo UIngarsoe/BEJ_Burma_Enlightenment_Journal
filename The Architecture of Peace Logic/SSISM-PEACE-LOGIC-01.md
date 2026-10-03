@@ -1,5 +1,5 @@
 🦚🥷☮️ SSISM Analytical Intelligence Dossier / တွဲဖက်သင်ခန်းစာ
-LECTURE CODE: TAIE-72 / SSISM-PEACE-LOGIC-01
+LECTURE CODE: TAIE-77 / SSISM-PEACE-LOGIC-01
 
 ## TOPIC: The Architecture of Peace Logic: Echoing Sayadaw's Dhamma Intelligence into Analytical Frameworks
 
@@ -7,7 +7,9 @@ LECTURE CODE: TAIE-72 / SSISM-PEACE-LOGIC-01
 
 #### Executive Summary / အနှစ်ချုပ် အစီရင်ခံစာ
 
-This lecture integrates the profound moral and intelligence guidance delivered by Baddanta Rājadhammābhivaṃsa (Masoyein Taik Thit) in his discourse "What Dhamma Preachers Must Know" into the SSISM/MYISM Analytical Logic Matrix. By operationalizing Pāli cognitive principles (Sīla, Samādhi, Paññā), historical statecraft precedents (The Pajjo-Santhātā Protocol of Sagyo Sayadaw), and mathematical probability formulas, we translate spiritual wisdom into actionable civic intelligence logic.
+This lecture integrates the profound moral and intelligence guidance delivered by Baddanta Rājadhammābhivaṃsa (Masoyein Taik Thit) in his discourse "What Dhamma Preachers Must Know" into the SSISM/MYISM Analytical Logic Matrix. 
+
+By operationalizing Pāli cognitive principles (Sīla, Samādhi, Paññā), historical statecraft precedents (The Pajjo-Santhātā Protocol of Sagyo Sayadaw), and mathematical probability formulas, we translate spiritual wisdom into actionable civic intelligence logic.
 
 ဤသင်ခန်းစာသည် မစိုးရိမ်တိုက်သစ် ဆရာတော် ဘဒ္ဒန္တ ရာဇဓမ္မာဘိဝံသ၏ "ဓမ္မကထိကတို့ သိစေဖို့" သြဝါဒကထာပါ မြင့်မြတ်သော ဓမ္မအသိဉာဏ်တော်များနှင့် ငြိမ်းချမ်းရေး လမ်းညွှန်ချက်များကို SSISM/MYISM သတင်းအချက်အလက် သုံးသပ်ရေး မူဘောင်အတွင်းသို့ စနစ်တကျ ပေါင်းစပ်ထည့်သွင်းထားခြင်း ဖြစ်ပါသည်။ 
 
