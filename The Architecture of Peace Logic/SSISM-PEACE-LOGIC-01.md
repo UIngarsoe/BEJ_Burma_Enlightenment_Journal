@@ -1,4 +1,4 @@
-SSISM Analytical Intelligence Dossier / တွဲဖက်သင်ခန်းစာ
+🦚☮️ SSISM Analytical Intelligence Dossier / တွဲဖက်သင်ခန်းစာ
 LECTURE CODE: TAIE-72 / SSISM-PEACE-LOGIC-01
 
 ## TOPIC: The Architecture of Peace Logic: Echoing Sayadaw's Dhamma Intelligence into Analytical Frameworks
