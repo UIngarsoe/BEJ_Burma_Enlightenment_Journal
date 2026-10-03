@@ -1,9 +1,9 @@
 🦚🥷☮️ SSISM Analytical Intelligence Dossier / တွဲဖက်သင်ခန်းစာ
 LECTURE CODE: TAIE-77 / SSISM-PEACE-LOGIC-01
 
-## TOPIC: The Architecture of Peace Logic: Echoing Sayadaw's Dhamma Intelligence into Analytical Frameworks
+### TOPIC: The Architecture of Peace Logic: Echoing Sayadaw's Dhamma Intelligence into Analytical Frameworks
 
-## ခေါင်းစဉ်: ငြိမ်းချမ်းရေး ယုတ္တိဗေဒ ဗိသုကာ - ဆရာတော်၏ သြဝါဒကထာကို အခြေခံ၍ သတင်းအချက်အလက်နှင့် စိစစ်ရေး မူဘောင်အဖြစ် ပဲ့တင်ထပ် ဟောကြားခြင်း
+### ခေါင်းစဉ်: ငြိမ်းချမ်းရေး ယုတ္တိဗေဒ ဗိသုကာ - ဆရာတော်၏ သြဝါဒကထာကို အခြေခံ၍ သတင်းအချက်အလက်နှင့် စိစစ်ရေး မူဘောင်အဖြစ် ပဲ့တင်ထပ် ဟောကြားခြင်း
 
 #### Executive Summary / အနှစ်ချုပ် အစီရင်ခံစာ
 
@@ -15,9 +15,10 @@ By operationalizing Pāli cognitive principles (Sīla, Samādhi, Paññā), hist
 
 ပါဠိတော်လာ စိတ္တက္ကမ သိမြင်မှု နည်းလမ်းများ (Sīla, Samādhi, Paññā)၊ သမိုင်းဝင် စကြိုသူမြတ်၏ ငြိမ်းချမ်းရေး သံတမန်ရေးရာ စံနမူနာများနှင့် သင်္ချာဆိုင်ရာ အကုသိုလ်/ကုသိုလ် အကျိုးဆက် သင်္ချာပုံသေနည်းများကို အသုံးပြု၍ ဓမ္မအသိဉာဏ်ကို ပြည်သူ့အသိဉာဏ်စနစ် (Civic Intelligence Logic) အဖြစ် အသုံးချပြထားပါသည်။
 
-## SECTION 1: PHILOSOPHICAL FOUNDATIONS & CIVIC INTELLIGENCE
 
-## အပိုင်း (၁) - တရားဓမ္မ ဒဿနနှင့် ပြည်သူ့အသိဉာဏ်တော် အခြေခံစနစ်
+### SECTION 1: PHILOSOPHICAL FOUNDATIONS & CIVIC INTELLIGENCE
+
+### အပိုင်း (၁) - တရားဓမ္မ ဒဿနနှင့် ပြည်သူ့အသိဉာဏ်တော် အခြေခံစနစ်
 
 #### 1. The Hazard of False Analysis (ဆရာကုန်ရှုံးခြင်း မူဘောင်)
 
@@ -35,9 +36,10 @@ Sayadaw referenced the Buddha’s active intervention during the Sakya-Koliya wa
 
  * ဓမ္မနှင့် စနစ်ယုတ္တိ: မြတ်စွာဘုရားရှင်၏ "ဘိန္နာနံ သန္ဓာတာ" (သဘောထားကွဲလွဲသူများကို စေ့စပ်ပေးသူ) နည်းလမ်းအတိုင်း သတင်းစိစစ်ရေး စနစ်တစ်ခု၏ အဓိကတာဝန်မှာ ပဋိပက္ခကို ပိုမိုကြီးထွားအောင် ပြုလုပ်ရန်မဟုတ်ဘဲ အမှန်တရားကို အခြေခံ၍ ငြိမ်းချမ်းရေးနှင့် ညီညွတ်ရေးကို ဖန်တီးပေးရန် ဖြစ်သည်။
 
-## SECTION 2: MATHEMATICAL MODELING OF CAUSALITY & CONFLICT
 
-## အပိုင်း (၂) - အကြောင်းအကျိုးနှင့် ပဋိပက္ခဆိုင်ရာ သင်္ချာမော်ဒယ်
+### SECTION 2: MATHEMATICAL MODELING OF CAUSALITY & CONFLICT
+
+### အပိုင်း (၂) - အကြောင်းအကျိုးနှင့် ပဋိပက္ခဆိုင်ရာ သင်္ချာမော်ဒယ်
 
 The discourse explicitly cites the Universal Law of Cause and Effect:
 
@@ -79,13 +81,16 @@ Where:
 
 When Dosa \gg Mett\bar{a}, Z_{Conflict} \to 1.0, resulting in total systemic collapse (တစ်သံသရာလုံးမှောက်). When Mett\bar{a} protocol is injected via neutral mediation (စကြိုသူမြတ် စံနမူနာ), Z_{Conflict} \to 0.0, stabilizing systemic peace.
 
-## SECTION 3: HISTORICAL STRATEGIC LESSONS (THE SAGYO SAYADAW MATRIX)
 
-## အပိုင်း (၃) - စကြိုသူမြတ်၏ သမိုင်းဝင် မဟာဗျူဟာမြောက် သင်ခန်းစာ
+### SECTION 3: HISTORICAL STRATEGIC LESSONS (THE SAGYO SAYADAW MATRIX)
+
+### အပိုင်း (၃) - စကြိုသူမြတ်၏ သမိုင်းဝင် မဟာဗျူဟာမြောက် သင်ခန်းစာ
 
 | Analytical Dimension | Historical Precedent (Inwa Period) | Modern SSISM Intelligence Application |
+
 |---|---|---|
 | Actors involved | King Razadarit (Hanthawaddy) & King Minkhaung (Inwa) | Polarized information factions & belligerent entities |
+
 | Historical Friction | Over 40 military engagements within a ~50-year lifespan | Continuous cyclical disinformation and socio-political polarization |
 
 | Intervention Agent | Sagyo Sayadaw (Neutral Moral & Intellectual Mediator) | SSISM Civic Intelligence & Verifiable Truth Systems |
@@ -94,9 +99,10 @@ When Dosa \gg Mett\bar{a}, Z_{Conflict} \to 1.0, resulting in total systemic col
 
 | Strategic Outcome | Peaceful withdrawal of forces without blood-spill | De-escalation of tension and dynamic threat reduction |
 
-## SECTION 4: CORE TAKEAWAYS FOR CIVIC INTELLIGENCE ANALYSTS
 
-## အပိုင်း (၄) - စိစစ်ရေး အနုပညာရှင်များအတွက် အဓိက လမ်းညွှန်ချက်များ
+### SECTION 4: CORE TAKEAWAYS FOR CIVIC INTELLIGENCE ANALYSTS
+
+### အပိုင်း (၄) - စိစစ်ရေး အနုပညာရှင်များအတွက် အဓိက လမ်းညွှန်ချက်များ
 
  * Verify Root Truth Before Broadcast (အမှားမဟောမိ/မဖြန့်မိရေး):
    Never issue predictions, news, or reports without 100% mathematical integrity verification. A single baseline mistake compromises the credibility of the entire network.
@@ -107,11 +113,12 @@ When Dosa \gg Mett\bar{a}, Z_{Conflict} \to 1.0, resulting in total systemic col
  * Institutionalize Institutional Delay & Peace (စေ့စပ်ညှိနှိုင်းမှု မူဘောင်):
    Emulate the wisdom of the Buddha and Sagyo Sayadaw by inserting cool, calm reflection protocols (Samādhi) into high-friction cyber and political environments before reactions occur.
 
-## Official Conclusion:
+
+### Official Conclusion:
 
 ✌️ ☮️ Peace is not merely the absence of physical war; it is the structural presence of Paññā (wisdom), Mettā (loving-kindness), and Verifiable Truth. By echoing Sayadaw's advice, we uphold the highest standard of Civic Intelligence.
 
 ### U Ingar Soe SSISM Sentinel 
 Burma Enlightenment Journal 77 MIT Licensed Algorithm 3rd October 2026.
 
-🦚🥷☮️🧘‍♂️✌️📦♥️
+🦚🥷☮️🧘‍♂️✌️♥️📦
