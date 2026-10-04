@@ -1,9 +1,3 @@
-title: "Self-Imposed Curfews in Myanmar: Why Young Men Are No Longer Seen on the Streets After 8:00 PM"
-author: "U Ingar Soe (SSISM BEJ 79)"
-date: "2026-10-04"
-lang: en
-citation-style: apa
-
 ### 🦚🇲🇲 Self-Imposed Curfews in Myanmar: Why Young Men Are No Longer Seen on the Streets After 8:00 PM
 #### By 🥷 U Ingar Soe (SSISM Burma Enlightenment Journal 79)
 
