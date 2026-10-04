@@ -1,8 +1,8 @@
 # 🦚🥷🧘‍♂️☮️ SSISM INTEL 
 ### Mathematical Foundations of Peace Logic & Ethical Intelligence Education
+###  * Author: U Ingar Soe
  * Journal: Bamar Enlightenment Journal (BEJ 78)
  * Module Code: TAIE-78 / SSISM-PEACE-LOGIC-02
-###  * Author: U Ingar Soe
  * Date: October 4, 2026
  * Classification: Academic White Paper / Ethical Intelligence Framework
  * Portfolio Mark: ⭐ 95/100 (Advanced Interdisciplinary Intelligence Study)
