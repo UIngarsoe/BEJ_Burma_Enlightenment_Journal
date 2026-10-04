@@ -97,10 +97,14 @@ Operational Outcome
 Bloodless withdrawal of forces.
 Immediate de-escalation via root-truth verification (E_0 correction).
 
-Section 4: Operational Guidance for SSISM Ninjas & Civic Analysts
+## Section 4: Operational Guidance for SSISM Ninjas & Civic Analysts
+
 To protect communities and prevent loss of life throughout Q4 2026, SSISM analysts and community leaders must execute the following protocol:
+
 Root-Truth Verification (E_0 Discipline)
+
 Correct root errors before analyzing downstream reports: \text{False Root Analysis } (E_0) \longrightarrow \text{False Downstream Decisions } (D)
+
 Burmese Principle: "မူလအမှားကို မပြင်ဘဲ နောက်ဆက်တွဲအဖြေများကို ပြုပြင်၍ မရနိုင်ပါ။" (Without correcting the root error, downstream outcomes cannot be corrected.)
 
 Enforce the Institutional Delay Protocol (\text{Sam\bar{a}dhi} Pause)
