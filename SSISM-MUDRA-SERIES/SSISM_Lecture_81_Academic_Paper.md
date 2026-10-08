@@ -1,4 +1,5 @@
-# Body Language Intelligence: Reading Observable Human Signals Without Inventing the Hidden Mind
+# 🦚🧘‍♂️ Body Language Intelligence: 
+Reading Observable Human Signals Without Inventing the Hidden Mind
 SSISM Intel Sentinel Advanced Intelligence Series • Lecture 81
 ### Author / Lead Researcher: U Ingar Soe (ဦးအင်္ဂါစိုး)
 Publication: Burma Enlightenment Journal 81
